@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: blue
+}
+
+
+subject {
+    font-family: "Yu Gothic";
+    font-size: x-large;
+    font-weight: bold;
+    color: #000000
+}
+subject_correct {
+    font-family: "Yu Gothic";
+    font-size: x-large;
+    font-weight: bold;
+    color: #555555
+}
+
+.noborder {
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+
+    outline: none;
+    border: none;
+    background: white;
+}
